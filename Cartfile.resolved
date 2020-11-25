@@ -1,0 +1,5 @@
+github "HeroTransitions/Hero" "1.5.0"
+github "ReactiveX/RxSwift" "6.0.0-rc.1"
+github "SnapKit/SnapKit" "5.0.1"
+github "airbnb/lottie-ios" "11d518841365b85b0dca7f7a55174d12911f05a0"
+github "vhesener/Closures" "v0.7"
